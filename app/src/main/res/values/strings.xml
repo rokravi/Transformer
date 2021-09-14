@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transformer</string>
+    <string name="edtx" > Enter Voltage </string>
+    <string name="edtx2" > Load loss at 100% </string>
+    <string name="edtx3" > Load loss at 75ºC </string>
+    <string name="butn" > Impedence </string>
+</resources>
